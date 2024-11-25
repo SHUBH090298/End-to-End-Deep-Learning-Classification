@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/End-to-End-Deep-Learning-Classification/mlruns/0/c2ba88b61b7943ecb4a4a3dccfb9ccb0/artifacts
+end_time: 1732569145754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2ba88b61b7943ecb4a4a3dccfb9ccb0
+run_name: skillful-bear-762
+run_uuid: c2ba88b61b7943ecb4a4a3dccfb9ccb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732569137766
+status: 4
+tags: []
+user_id: shubh
