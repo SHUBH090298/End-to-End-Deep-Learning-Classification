@@ -41,6 +41,6 @@ stages:
     outs:
     - path: artifacts/prepare_base_model
       hash: md5
-      md5: 621e1bc9c92f64328a036ad9f1d1599d.dir
+      md5: fcc962ffd2bcbf2159183a1cd8f4af98.dir
       size: 118054560
       nfiles: 2
